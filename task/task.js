@@ -6,29 +6,29 @@
  */
 const users = [
   {
-    name: "Restu ",
+    name: "Restu Adil",
     age: 27,
     major: "Teknik Informatika",
   },
   {
-    name: "Adil",
+    name: "Arif Takdir",
     age: 27,
-    major: "Teknik Informatika",
+    major: "Arsitek",
   },
   {
-    name: "Salatin",
+    name: "Raihan Jundi",
     age: 27,
-    major: "Teknik Informatika",
+    major: "Teknik Jaringan",
   },
   {
-    name: "Syah",
+    name: "Restila Indana",
     age: 27,
-    major: "Teknik Informatika",
+    major: "Pendidikan Matematika",
   },
   {
-    name: "Restu Adil Salatin Syah",
+    name: "Dani",
     age: 27,
-    major: "Teknik Informatika",
+    major: "Teknik Sipil",
   },
 ];
 /**
